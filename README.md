@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👨‍💻 Francisco Ghisoni
 
-<!--
-**franGhisoni/franGhisoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Developer | 💻 Software Engineering Student
 
-Here are some ideas to get you started:
+I’m Francisco Ghisoni, a passionate full-stack developer with a focus on **React** and **Node.js**. I have experience leading and contributing to projects ranging from **client management systems** to **payment platforms** and **automation tools** for land selection.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Experience
+
+- 🎓 **Software Engineering Student** at UADE
+- 💡 Hands-on experience in a startup environment, initially as the **sole developer**, later expanding the team and leading development efforts
+- 🔐 Developed and optimized solutions for **secure**, **scalable**, and **automated systems**
+
+### 🛠️ Tech Stack
+
+- **Frontend:** ⚛️ React, ⚛️ React Native, 💻 JavaScript, 🎨 Tailwind CSS, 🎨 CSS
+- **Backend:** 🌐 Node.js, 🌐 Express, ⚡ Fastify, 🛡️ Nest, ☕ Java Spring, 🐍 Python
+- **Databases:** 🗃️ MSSQL, 🗃️ MySQL, 🗄️ MongoDB
+
+I’m always looking for new challenges and opportunities to grow my expertise in software development! 💼🚀
